@@ -1,0 +1,9 @@
+Instalação:
+
+https://ticapacitacion.com/content/display/botspt?m=10&l=30&t=10
+
+
+Feito tutorial para instalação utilizando Node.js
+- https://github.com/CommunityBootcamp/Maratona-BOTs/blob/master/QuickStart/configurando-ambiente-nodejs.md
+
+
